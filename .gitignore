@@ -1,0 +1,6 @@
+git-*
+*.inf
+*.lst
+__pycache__
+.vscode
+.venv
